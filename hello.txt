@@ -30,3 +30,4 @@ hello git 333
 hello git 333333
 hello git 333333
 hello git 333333 master test
+hello git 333333 hot-fix test
